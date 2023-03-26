@@ -1,0 +1,352 @@
+Player,Statistic,Per 90,Percentile
+Sergio-Busquets,Statistic,Per 90,Percentile
+Sergio-Busquets,Non-Penalty Goals,0.06,47
+Sergio-Busquets,Non-Penalty xG,0.03,15
+Sergio-Busquets,Shots Total,0.43,10
+Sergio-Busquets,Assists,0.09,60
+Sergio-Busquets,xAG,0.07,45
+Sergio-Busquets,npxG + xAG,0.10,27
+Sergio-Busquets,Shot-Creating Actions,2.49,58
+Sergio-Busquets,,,
+Sergio-Busquets,Passes Attempted,72.53,95
+Sergio-Busquets,Pass Completion %,87.1%,84
+Sergio-Busquets,Progressive Passes,7.65,90
+Sergio-Busquets,Progressive Carries,0.70,20
+Sergio-Busquets,Successful Take-Ons,0.41,26
+Sergio-Busquets,Touches (Att Pen),0.78,32
+Sergio-Busquets,Progressive Passes Rec,1.30,34
+Sergio-Busquets,,,
+Sergio-Busquets,Tackles,2.64,78
+Sergio-Busquets,Interceptions,1.28,69
+Sergio-Busquets,Blocks,1.33,62
+Sergio-Busquets,Clearances,1.25,66
+Sergio-Busquets,Aerials won,2.41,94
+Pedri,Statistic,Per 90,Percentile
+Pedri,Non-Penalty Goals,0.32,98
+Pedri,Non-Penalty xG,0.20,96
+Pedri,Shots Total,1.19,64
+Pedri,Assists,0.00,11
+Pedri,xAG,0.16,88
+Pedri,npxG + xAG,0.36,94
+Pedri,Shot-Creating Actions,3.92,92
+Pedri,,,
+Pedri,Passes Attempted,63.02,82
+Pedri,Pass Completion %,86.7%,82
+Pedri,Progressive Passes,7.72,91
+Pedri,Progressive Carries,2.84,92
+Pedri,Successful Take-Ons,1.65,95
+Pedri,Touches (Att Pen),2.66,91
+Pedri,Progressive Passes Rec,5.03,95
+Pedri,,,
+Pedri,Tackles,2.16,54
+Pedri,Interceptions,0.75,24
+Pedri,Blocks,1.58,83
+Pedri,Clearances,0.36,4
+Pedri,Aerials won,0.07,1
+Robert-Lewandowski,Statistic,Per 90,Percentile
+Robert-Lewandowski,Non-Penalty Goals,0.71,96
+Robert-Lewandowski,Non-Penalty xG,0.63,96
+Robert-Lewandowski,Shots Total,3.87,94
+Robert-Lewandowski,Assists,0.20,81
+Robert-Lewandowski,xAG,0.15,68
+Robert-Lewandowski,npxG + xAG,0.78,93
+Robert-Lewandowski,Shot-Creating Actions,2.70,66
+Robert-Lewandowski,,,
+Robert-Lewandowski,Passes Attempted,24.11,61
+Robert-Lewandowski,Pass Completion %,74.6%,76
+Robert-Lewandowski,Progressive Passes,2.98,84
+Robert-Lewandowski,Progressive Carries,1.39,50
+Robert-Lewandowski,Successful Take-Ons,1.02,68
+Robert-Lewandowski,Touches (Att Pen),6.54,89
+Robert-Lewandowski,Progressive Passes Rec,7.70,85
+Robert-Lewandowski,,,
+Robert-Lewandowski,Tackles,0.57,42
+Robert-Lewandowski,Interceptions,0.17,45
+Robert-Lewandowski,Blocks,0.60,46
+Robert-Lewandowski,Clearances,0.54,34
+Robert-Lewandowski,Aerials won,1.62,45
+Andreas-Christensen,Statistic,Per 90,Percentile
+Andreas-Christensen,Non-Penalty Goals,0.00,20
+Andreas-Christensen,Non-Penalty xG,0.02,11
+Andreas-Christensen,Shots Total,0.30,24
+Andreas-Christensen,Assists,0.05,85
+Andreas-Christensen,xAG,0.03,62
+Andreas-Christensen,npxG + xAG,0.05,27
+Andreas-Christensen,Shot-Creating Actions,0.86,70
+Andreas-Christensen,,,
+Andreas-Christensen,Passes Attempted,80.91,97
+Andreas-Christensen,Pass Completion %,93.3%,98
+Andreas-Christensen,Progressive Passes,5.13,91
+Andreas-Christensen,Progressive Carries,1.12,86
+Andreas-Christensen,Successful Take-Ons,0.05,16
+Andreas-Christensen,Touches (Att Pen),0.61,32
+Andreas-Christensen,Progressive Passes Rec,0.15,37
+Andreas-Christensen,,,
+Andreas-Christensen,Tackles,1.32,39
+Andreas-Christensen,Interceptions,0.86,15
+Andreas-Christensen,Blocks,0.81,11
+Andreas-Christensen,Clearances,2.74,13
+Andreas-Christensen,Aerials won,2.28,68
+Marcos-Alonso,Statistic,Per 90,Percentile
+Marcos-Alonso,Non-Penalty Goals,0.27,99
+Marcos-Alonso,Non-Penalty xG,0.16,99
+Marcos-Alonso,Shots Total,1.22,89
+Marcos-Alonso,Assists,0.05,33
+Marcos-Alonso,xAG,0.16,87
+Marcos-Alonso,npxG + xAG,0.32,95
+Marcos-Alonso,Shot-Creating Actions,3.15,89
+Marcos-Alonso,,,
+Marcos-Alonso,Passes Attempted,77.66,96
+Marcos-Alonso,Pass Completion %,86.4%,95
+Marcos-Alonso,Progressive Passes,5.63,88
+Marcos-Alonso,Progressive Carries,1.94,43
+Marcos-Alonso,Successful Take-Ons,0.36,20
+Marcos-Alonso,Touches (Att Pen),1.94,77
+Marcos-Alonso,Progressive Passes Rec,5.13,64
+Marcos-Alonso,,,
+Marcos-Alonso,Tackles,1.17,6
+Marcos-Alonso,Interceptions,1.13,59
+Marcos-Alonso,Blocks,1.35,74
+Marcos-Alonso,Clearances,2.16,62
+Marcos-Alonso,Aerials won,1.80,91
+Sergi-Roberto,Statistic,Per 90,Percentile
+Sergi-Roberto,Non-Penalty Goals,0.23,99
+Sergi-Roberto,Non-Penalty xG,0.14,97
+Sergi-Roberto,Shots Total,1.13,88
+Sergi-Roberto,Assists,0.23,91
+Sergi-Roberto,xAG,0.11,65
+Sergi-Roberto,npxG + xAG,0.26,88
+Sergi-Roberto,Shot-Creating Actions,1.96,42
+Sergi-Roberto,,,
+Sergi-Roberto,Passes Attempted,67.95,92
+Sergi-Roberto,Pass Completion %,90.4%,99
+Sergi-Roberto,Progressive Passes,7.45,98
+Sergi-Roberto,Progressive Carries,2.93,83
+Sergi-Roberto,Successful Take-Ons,0.30,13
+Sergi-Roberto,Touches (Att Pen),2.86,93
+Sergi-Roberto,Progressive Passes Rec,5.12,63
+Sergi-Roberto,,,
+Sergi-Roberto,Tackles,1.88,42
+Sergi-Roberto,Interceptions,0.90,33
+Sergi-Roberto,Blocks,0.75,11
+Sergi-Roberto,Clearances,1.05,7
+Sergi-Roberto,Aerials won,0.38,11
+Raphinha,Statistic,Per 90,Percentile
+Raphinha,Non-Penalty Goals,0.30,69
+Raphinha,Non-Penalty xG,0.29,73
+Raphinha,Shots Total,3.02,87
+Raphinha,Assists,0.23,59
+Raphinha,xAG,0.27,83
+Raphinha,npxG + xAG,0.56,82
+Raphinha,Shot-Creating Actions,4.03,63
+Raphinha,,,
+Raphinha,Passes Attempted,50.86,88
+Raphinha,Pass Completion %,70.3%,23
+Raphinha,Progressive Passes,4.52,68
+Raphinha,Progressive Carries,3.81,76
+Raphinha,Successful Take-Ons,1.55,63
+Raphinha,Touches (Att Pen),5.32,81
+Raphinha,Progressive Passes Rec,11.80,92
+Raphinha,,,
+Raphinha,Tackles,1.55,71
+Raphinha,Interceptions,0.90,89
+Raphinha,Blocks,1.51,93
+Raphinha,Clearances,0.75,84
+Raphinha,Aerials won,0.57,61
+Gavi,Statistic,Per 90,Percentile
+Gavi,Non-Penalty Goals,0.03,28
+Gavi,Non-Penalty xG,0.10,68
+Gavi,Shots Total,0.94,44
+Gavi,Assists,0.09,63
+Gavi,xAG,0.13,78
+Gavi,npxG + xAG,0.22,73
+Gavi,Shot-Creating Actions,2.81,69
+Gavi,,,
+Gavi,Passes Attempted,45.76,40
+Gavi,Pass Completion %,84.5%,66
+Gavi,Progressive Passes,4.32,36
+Gavi,Progressive Carries,2.23,83
+Gavi,Successful Take-Ons,1.27,85
+Gavi,Touches (Att Pen),3.23,97
+Gavi,Progressive Passes Rec,5.50,97
+Gavi,,,
+Gavi,Tackles,1.90,35
+Gavi,Interceptions,0.97,41
+Gavi,Blocks,1.51,80
+Gavi,Clearances,0.66,24
+Gavi,Aerials won,1.51,81
+Ansu-Fati,Statistic,Per 90,Percentile
+Ansu-Fati,Non-Penalty Goals,0.27,62
+Ansu-Fati,Non-Penalty xG,0.51,99
+Ansu-Fati,Shots Total,4.37,99
+Ansu-Fati,Assists,0.27,74
+Ansu-Fati,xAG,0.08,5
+Ansu-Fati,npxG + xAG,0.59,89
+Ansu-Fati,Shot-Creating Actions,2.83,12
+Ansu-Fati,,,
+Ansu-Fati,Passes Attempted,38.74,53
+Ansu-Fati,Pass Completion %,85.1%,97
+Ansu-Fati,Progressive Passes,2.42,13
+Ansu-Fati,Progressive Carries,2.83,45
+Ansu-Fati,Successful Take-Ons,1.28,37
+Ansu-Fati,Touches (Att Pen),8.27,99
+Ansu-Fati,Progressive Passes Rec,11.10,88
+Ansu-Fati,,,
+Ansu-Fati,Tackles,0.94,23
+Ansu-Fati,Interceptions,0.20,12
+Ansu-Fati,Blocks,1.14,72
+Ansu-Fati,Clearances,0.34,38
+Ansu-Fati,Aerials won,0.54,57
+Jordi-Alba,Statistic,Per 90,Percentile
+Jordi-Alba,Non-Penalty Goals,0.08,76
+Jordi-Alba,Non-Penalty xG,0.04,50
+Jordi-Alba,Shots Total,0.80,69
+Jordi-Alba,Assists,0.27,95
+Jordi-Alba,xAG,0.32,99
+Jordi-Alba,npxG + xAG,0.36,97
+Jordi-Alba,Shot-Creating Actions,3.64,94
+Jordi-Alba,,,
+Jordi-Alba,Passes Attempted,99.39,99
+Jordi-Alba,Pass Completion %,84.3%,88
+Jordi-Alba,Progressive Passes,10.76,99
+Jordi-Alba,Progressive Carries,2.27,58
+Jordi-Alba,Successful Take-Ons,0.27,10
+Jordi-Alba,Touches (Att Pen),2.35,85
+Jordi-Alba,Progressive Passes Rec,8.75,97
+Jordi-Alba,,,
+Jordi-Alba,Tackles,1.59,24
+Jordi-Alba,Interceptions,0.91,33
+Jordi-Alba,Blocks,1.02,37
+Jordi-Alba,Clearances,1.29,14
+Jordi-Alba,Aerials won,0.42,13
+Alejandro-Balde,Statistic,Per 90,Percentile
+Alejandro-Balde,Non-Penalty Goals,0.00,20
+Alejandro-Balde,Non-Penalty xG,0.02,28
+Alejandro-Balde,Shots Total,0.42,29
+Alejandro-Balde,Assists,0.19,84
+Alejandro-Balde,xAG,0.16,84
+Alejandro-Balde,npxG + xAG,0.18,68
+Alejandro-Balde,Shot-Creating Actions,2.13,56
+Alejandro-Balde,,,
+Alejandro-Balde,Passes Attempted,64.68,87
+Alejandro-Balde,Pass Completion %,88.5%,98
+Alejandro-Balde,Progressive Passes,3.01,21
+Alejandro-Balde,Progressive Carries,3.70,94
+Alejandro-Balde,Successful Take-Ons,2.08,99
+Alejandro-Balde,Touches (Att Pen),2.73,93
+Alejandro-Balde,Progressive Passes Rec,7.64,90
+Alejandro-Balde,,,
+Alejandro-Balde,Tackles,1.39,13
+Alejandro-Balde,Interceptions,0.51,6
+Alejandro-Balde,Blocks,1.16,51
+Alejandro-Balde,Clearances,0.69,2
+Alejandro-Balde,Aerials won,0.42,13
+Marc-Casado,,,Playing Time,Performance,Expected,Progression,Per 90 Minutes,
+Marc-Casado,Season,Age,Squad,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+Marc-Casado,2022-2023,18,Barcelona,1. Champions Lg,GR,1,0,24,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Matches
+Marc-Casado,2022-2023,18,Barcelona,2. Europa Lg,KO,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches
+Marc-Casado,1 Season,1 Club,2 Leagues,,1,0,24,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,
+Marc-Casado,Champions Lg (1 Season),,,1,0,24,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,
+Marc-Casado,Europa Lg (1 Season),,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pablo-Torre,,,Playing Time,Performance,Expected,Progression,Per 90 Minutes,
+Pablo-Torre,Season,Age,Squad,Country,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+Pablo-Torre,2022-2023,19,Barcelona,es ESP,1. La Liga,1st,2,0,29,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,3,3,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Matches
+Pablo-Torre,1 Season,1 Club,,1 League,,2,0,29,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,3,3,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,
+Frenkie-de-Jong,Statistic,Per 90,Percentile
+Frenkie-de-Jong,Non-Penalty Goals,0.06,48
+Frenkie-de-Jong,Non-Penalty xG,0.09,62
+Frenkie-de-Jong,Shots Total,0.74,28
+Frenkie-de-Jong,Assists,0.09,61
+Frenkie-de-Jong,xAG,0.12,72
+Frenkie-de-Jong,npxG + xAG,0.21,68
+Frenkie-de-Jong,Shot-Creating Actions,3.29,82
+Frenkie-de-Jong,,,
+Frenkie-de-Jong,Passes Attempted,68.66,91
+Frenkie-de-Jong,Pass Completion %,89.2%,93
+Frenkie-de-Jong,Progressive Passes,7.87,93
+Frenkie-de-Jong,Progressive Carries,3.03,94
+Frenkie-de-Jong,Successful Take-Ons,1.42,90
+Frenkie-de-Jong,Touches (Att Pen),2.02,78
+Frenkie-de-Jong,Progressive Passes Rec,3.41,79
+Frenkie-de-Jong,,,
+Frenkie-de-Jong,Tackles,1.45,14
+Frenkie-de-Jong,Interceptions,1.13,55
+Frenkie-de-Jong,Blocks,0.45,1
+Frenkie-de-Jong,Clearances,0.62,16
+Frenkie-de-Jong,Aerials won,0.98,55
+Ilias-Akhomach,,,Playing Time,Performance,Expected,Progression,Per 90 Minutes,
+Ilias-Akhomach,Season,Age,Squad,Country,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+Ilias-Akhomach,2021-2022,17,Barcelona,es ESP,1. La Liga,2nd,2,2,124,1.4,0,0,0,0,0,0,0,0,0.1,0.1,0.6,0.7,7,11,13,0.00,0.00,0.00,0.00,0.00,0.11,0.43,0.54,0.11,0.54,Matches
+Ilias-Akhomach,1 Season,1 Club,,1 League,,2,2,124,1.4,0,0,0,0,0,0,0,0,0.1,0.1,0.6,0.7,7,11,13,0.00,0.00,0.00,0.00,0.00,0.11,0.43,0.54,0.11,0.54,
+Alvaro-Sanz,,,Playing Time,Performance,Expected,Progression,Per 90 Minutes,
+Alvaro-Sanz,Season,Age,Squad,Country,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+Alvaro-Sanz,2021-2022,20,Barcelona,es ESP,1. La Liga,2nd,2,0,29,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,0,0.00,0.00,0.00,0.00,0.00,0.00,0.05,0.05,0.00,0.05,Matches
+Alvaro-Sanz,2022-2023,21,CD Mirandés,es ESP,2. Segunda División,11th,5,1,129,1.4,0,0,0,0,0,0,0,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,Matches
+Alvaro-Sanz,2 Seasons,2 Clubs,,2 Leagues,,7,1,158,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,0,0.00,0.00,0.00,0.00,0.00,0.00,0.05,0.05,0.00,0.05,
+Alvaro-Sanz,,Country,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+Alvaro-Sanz,CD Mirandés (1 Season),,1 League,,5,1,129,1.4,0,0,0,0,0,0,0,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,
+Alvaro-Sanz,Barcelona (1 Season),,1 League,,2,0,29,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,0,0.00,0.00,0.00,0.00,0.00,0.00,0.05,0.05,0.00,0.05,
+Alvaro-Sanz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Alvaro-Sanz,Segunda División (1 Season),,,,5,1,129,1.4,0,0,0,0,0,0,0,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,
+Alvaro-Sanz,La Liga (1 Season),,,,2,0,29,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,0,0.00,0.00,0.00,0.00,0.00,0.00,0.05,0.05,0.00,0.05,
+Memphis,Statistic,Per 90,Percentile
+Memphis,Non-Penalty Goals,0.70,99
+Memphis,Non-Penalty xG,0.44,97
+Memphis,Shots Total,3.14,87
+Memphis,Assists,0.00,1
+Memphis,xAG,0.15,26
+Memphis,npxG + xAG,0.58,87
+Memphis,Shot-Creating Actions,4.06,65
+Memphis,,,
+Memphis,Passes Attempted,46.57,77
+Memphis,Pass Completion %,76.8%,55
+Memphis,Progressive Passes,3.37,41
+Memphis,Progressive Carries,2.67,38
+Memphis,Successful Take-Ons,2.55,91
+Memphis,Touches (Att Pen),7.78,99
+Memphis,Progressive Passes Rec,12.31,93
+Memphis,,,
+Memphis,Tackles,0.58,5
+Memphis,Interceptions,0.12,4
+Memphis,Blocks,0.35,3
+Memphis,Clearances,0.46,59
+Memphis,Aerials won,0.81,78
+Chadi-Riad,,,Playing Time,Performance,Expected,Progression,Per 90 Minutes,
+Chadi-Riad,Season,Age,Squad,Country,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+Chadi-Riad,2020-2021,17,Sabadell,es ESP,2. Segunda División,19th,1,0,6,0.1,0,0,0,0,0,0,0,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,Matches
+Chadi-Riad,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Chadi-Riad,2022-2023,19,Barcelona,es ESP,1. La Liga,1st,1,0,2,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Matches
+Chadi-Riad,2 Seasons,2 Clubs,,2 Leagues,,2,0,8,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,
+Chadi-Riad,,Country,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+Chadi-Riad,Barcelona (1 Season),,1 League,,1,0,2,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,
+Chadi-Riad,Sabadell (1 Season),,1 League,,1,0,6,0.1,0,0,0,0,0,0,0,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,
+Chadi-Riad,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Chadi-Riad,La Liga (1 Season),,,,1,0,2,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,
+Chadi-Riad,Segunda División (1 Season),,,,1,0,6,0.1,0,0,0,0,0,0,0,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,
+Estanis,,,Playing Time,Performance,Expected,Progression,Per 90 Minutes,
+Estanis,Season,Age,Squad,Country,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+Estanis,2021-2022,17,Barcelona,es ESP,1. La Liga,2nd,1,0,11,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Matches
+Estanis,2022-2023,18,Barcelona,es ESP,1. La Liga,1st,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches
+Estanis,2 Seasons,1 Club,,1 League,,1,0,11,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,
+Pierre-Emerick-Aubameyang,Statistic,Per 90,Percentile
+Pierre-Emerick-Aubameyang,Non-Penalty Goals,0.50,82
+Pierre-Emerick-Aubameyang,Non-Penalty xG,0.53,88
+Pierre-Emerick-Aubameyang,Shots Total,2.81,66
+Pierre-Emerick-Aubameyang,Assists,0.10,36
+Pierre-Emerick-Aubameyang,xAG,0.09,25
+Pierre-Emerick-Aubameyang,npxG + xAG,0.61,78
+Pierre-Emerick-Aubameyang,Shot-Creating Actions,1.45,5
+Pierre-Emerick-Aubameyang,,,
+Pierre-Emerick-Aubameyang,Passes Attempted,19.75,34
+Pierre-Emerick-Aubameyang,Pass Completion %,73.6%,69
+Pierre-Emerick-Aubameyang,Progressive Passes,1.25,16
+Pierre-Emerick-Aubameyang,Progressive Carries,1.05,34
+Pierre-Emerick-Aubameyang,Successful Take-Ons,0.25,6
+Pierre-Emerick-Aubameyang,Touches (Att Pen),4.56,40
+Pierre-Emerick-Aubameyang,Progressive Passes Rec,6.32,51
+Pierre-Emerick-Aubameyang,,,
+Pierre-Emerick-Aubameyang,Tackles,0.10,1
+Pierre-Emerick-Aubameyang,Interceptions,0.20,59
+Pierre-Emerick-Aubameyang,Blocks,0.60,48
+Pierre-Emerick-Aubameyang,Clearances,0.50,30
+Pierre-Emerick-Aubameyang,Aerials won,0.35,5
